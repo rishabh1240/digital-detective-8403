@@ -1,0 +1,5 @@
+n=int(input())
+b=bin(n).partition("b")
+h=hex(n).partition("x")
+print("Binary=",b[2])
+print("Hexadecimal=",h[2])
