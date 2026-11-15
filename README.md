@@ -36,3 +36,13 @@ Each mission will be completed individually, documented in its respective README
 ## Security and Privacy
 
 This repository will not contain passwords, access tokens, or sensitive personal or network information.
+
+## My Learning
+
+During this assignment, I have learned several important concepts about computers, programming and version control.
+
+1. **Computer and Operating Systems:** I learned how computers process information using the IPOS cycle (Input, Processing, Output and Storage), identified hardware and software, and understood the responsibilities of an operating system.
+
+2. **Terminal and Python:** I learned to use Terminal commands for navigating directories, managing files and understanding processes. I also practised Python programming, number conversions between decimal, binary and hexadecimal, and character encoding using ASCII and UTF-8.
+
+3. **Git and GitHub:** I learned how version control works, how to stage and commit changes, maintain commit history, create branches and collaborate through Pull Requests on GitHub.
